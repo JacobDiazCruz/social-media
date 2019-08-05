@@ -1,0 +1,6 @@
+{
+	"mongoURI" : "mongodb+srv://jacob_cruz_mainPlatform:Qubemazterz1@mernstack-nwob6.gcp.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret" : "mysecrettoken",
+	"githubClientId" : "b7e95292d09a6cc08ef0",
+	"githubSecret" : "f482e638cdef372f838017300ea59a6549e9951a"
+}
